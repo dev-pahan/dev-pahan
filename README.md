@@ -7,7 +7,7 @@ I'm a second-year **BSc Cyber Security** student at **ECU**, passionate about di
 
 #### 🧑‍💻 Cyber Security & Forensics
 - Tools I’ve worked with: `OSForensics`, `Autopsy`, `Ubuntu`, `Kali Linux`, `nmap`, encryption methods  
-- Currently learning: **Forensics**, **Network Fundamentals**, **Kali Linux**,and **CCNA**
+- Currently learning: **Forensics**, **Network Fundamentals**, **Kali Linux**,and **Cisco Courses**
 
 
 #### 💡 General Development & Design
